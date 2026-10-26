@@ -1,0 +1,4 @@
+2026.10.26.1
+sha256=89dc2bdd9c0c8d73ee99a46dc5886a24688014cc25bbd620aa3657715f0efbc6
+size=35615744
+file=Luminous.dll
